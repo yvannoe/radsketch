@@ -1,4 +1,4 @@
-// radsketch.pde by yvan 11
+// radsketch.pde by yvan 13
 
 void setup() {
   size(200,200);
@@ -17,3 +17,5 @@ void setup() {
     width/2 + cos(radians(210))*25, height/2 - sin(radians(210))*25,
     width/2 + cos(radians(330))*25, height/2 - sin(radians(330))*25 );
 }
+
+//pas baba au rhum
