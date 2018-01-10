@@ -2,15 +2,11 @@
 
 //additionnal on the local
 
-<<<<<<< HEAD
 //commit 1
 
 //commit2
 
 //commit3
-=======
-//master commit1
->>>>>>> 7539b59... commit master1
 
 void setup() {
   size(200,200);
