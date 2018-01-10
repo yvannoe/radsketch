@@ -1,3 +1,4 @@
+// radsketch.pde by yvan 12
 // radsketch.pde by yvan 13
 
 void setup() {
@@ -18,4 +19,5 @@ void setup() {
     width/2 + cos(radians(330))*25, height/2 - sin(radians(330))*25 );
 }
 
+//baba au rhum
 //pas baba au rhum
