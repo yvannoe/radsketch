@@ -1,4 +1,4 @@
-// radsketch.pde by yvan 14
+// radsketch.pde by yvan 15
 
 void setup() {
   size(200,200);
@@ -18,4 +18,4 @@ void setup() {
     width/2 + cos(radians(330))*25, height/2 - sin(radians(330))*25 );
 }
 
-//fuck baba
+//be nice to baba
