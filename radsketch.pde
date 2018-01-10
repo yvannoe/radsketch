@@ -1,4 +1,4 @@
-// radsketch.pde
+// radsketch.pde by yvan
 
 void setup() {
   size(200,200);
