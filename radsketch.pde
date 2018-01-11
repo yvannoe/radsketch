@@ -15,22 +15,7 @@
 
 //change master
 
-//rebase master 1
-
-//rebase master 2
-
-//rebase master 3
-//client1
-
-//client2
-
-//rebase master 4
-
-//rebase master 5
-
-//client server1
-
-//client server2
+//rebaser master1
 
 void setup() {
   size(200,200);
