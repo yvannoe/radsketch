@@ -30,6 +30,8 @@
 
 //client server1
 
+//client server2
+
 void setup() {
   size(200,200);
   background(255);
