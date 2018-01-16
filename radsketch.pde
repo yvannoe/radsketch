@@ -2,11 +2,9 @@
 
 //additionnal on the local
 
-//rebase -onto 160118
+//rebase https://www.miximum.fr/blog/git-rebase/
 
-//c2
-
-//c4
+//B
 
 void setup() {
   size(200,200);
