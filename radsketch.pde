@@ -4,21 +4,9 @@
 
 //rebase https://www.miximum.fr/blog/git-rebase/
 
-//err de création de branch debug sur une branche enfant
+//Réparer un mauvais historique, bis
 
 //A
-
-//B
-
-//H
-
-//I
-
-//J
-
-//E
-
-//F
 
 void setup() {
   size(200,200);
