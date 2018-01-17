@@ -6,6 +6,10 @@
 
 //Faciliter l'intégration de branches
 
+//A
+
+//B
+
 
 void setup() {
   size(200,200);
