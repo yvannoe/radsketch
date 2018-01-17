@@ -4,15 +4,9 @@
 
 //rebase https://www.miximum.fr/blog/git-rebase/
 
-//B
+//fusionner les branches en série
 
-//E
-
-//H
-
-//I
-//D
-//G
+//A
 
 void setup() {
   size(200,200);
