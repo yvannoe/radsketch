@@ -4,15 +4,8 @@
 
 //rebase https://www.miximum.fr/blog/git-rebase/
 
-//Réparer un mauvais historique, bis
+//Faciliter l'intégration de branches
 
-//A
-
-//B
-
-//H
-
-//I
 
 void setup() {
   size(200,200);
