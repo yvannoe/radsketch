@@ -4,21 +4,9 @@
 
 //rebase https://www.miximum.fr/blog/git-rebase/
 
-//fusionner les branches en série
+//err de création de branch debug sur une branche enfant
 
 //A
-
-//B
-
-//E
-
-//H
-
-//I
-//C
-
-//D
-//F
 
 void setup() {
   size(200,200);
