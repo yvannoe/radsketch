@@ -4,21 +4,9 @@
 
 //rebase https://www.miximum.fr/blog/git-rebase/
 
-//Faciliter l'intégration de branches
+//rebase pr mise à jour
 
-//A
-
-//B
-
-//H
-
-//I
-
-/J
-
-//E
-
-//F
+//start
 
 
 void setup() {
