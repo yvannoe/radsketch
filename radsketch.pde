@@ -4,20 +4,7 @@
 
 //rebase https://www.miximum.fr/blog/git-rebase/
 
-//rebase pr mise à jour
-
-//start
-
-//master to integrate by rebase
-
-//B
-
-//H
-
-//I
-//newsletter C
-
-//D
+//Rebase interactif
 
 void setup() {
   size(200,200);
