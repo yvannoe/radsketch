@@ -4,14 +4,16 @@
 
 //rebase https://www.miximum.fr/blog/git-rebase/
 
-//Rebase interactif
+//Faciliter l'intégration de branches
 
-<<<<<<< HEAD
+//A
+
+//B
+
 //checkout commit
 
-=======
-//pb
->>>>>>> 0f19e765c540baf7b313722089326220e6ead317
+//fetch pb
+
 
 void setup() {
   size(200,200);
