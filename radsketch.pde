@@ -10,7 +10,7 @@
 
 //B
 
-//checkout commit
+//a little stash
 
 //modif à l arrache
 
