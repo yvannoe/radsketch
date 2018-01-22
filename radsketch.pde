@@ -10,9 +10,7 @@
 
 //B
 
-//a little stash
-
-//modif à l arrache
+//checkout commit
 
 
 void setup() {
